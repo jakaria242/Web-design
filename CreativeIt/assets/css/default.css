@@ -1,0 +1,20 @@
+/* =========Paddings========= */
+.pt-30  { padding-top: 30px;}
+.pt-70  { padding-top: 70px;}
+.pt-80  { padding-top: 80px;}
+.pt-110 { padding-top: 110px;}
+.pt-120 { padding-top: 120px;}
+.pt-150 { padding-top: 150px;}
+
+.pb-30  { padding-bottom: 30px;}
+.pb-40  { padding-bottom: 40px;}
+.pb-80  { padding-bottom: 80px;}
+.pb-90  { padding-bottom: 90px;}
+.pb-120 { padding-bottom: 120px;}
+
+/* =========Margins========= */
+.mt-50 { margin-top: 50px;}
+
+.mb-30 { margin-bottom: 30px;}
+.mb-60 { margin-bottom: 60px;}
+.mb-110 { margin-bottom: 110px;}

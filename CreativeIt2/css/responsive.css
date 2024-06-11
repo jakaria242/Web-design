@@ -1,0 +1,1646 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+    /* =====================common css title start ============= */
+    .title {
+        margin-bottom: 20px;
+    }
+    .title h2 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .title p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    /* =====================common css title end============= */
+    /* ===============navbar_part start ================ */
+    .navbar {
+        top: 0;
+    }
+    .navbar .main {
+        background: #f1f1f1;
+        padding: 20px 0;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+    .navbar .navbar-nav{
+        text-align: center;    
+    }
+    .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 16px;
+        margin: 15px 0 0 20px;
+        text-align: left;
+        border-radius: 20px;
+        background: #dc1111;
+    }
+    .navbar form .btn:hover {
+        background: #f4f1f1;
+        border: 1px solid red;
+      }
+    .navbar .navbar-toggler{
+        border: 0;
+    }
+    .toggle-wrap {
+        padding: 10px;
+        position: relative;
+        cursor: pointer;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    .navbar .navbar-toggler:focus{
+        border: none;
+        box-shadow: none;
+    }
+    .navbar .navbar-toggler i {
+        color: #0c0c0c;
+        font-size: 40px;
+    }
+    .navbar .navbar-nav .nav-item {
+        text-align: left;
+        border-bottom: 1px solid #cf0000;
+        margin: 0;
+        padding: 0 20px;
+    }
+    .navbar .navbar-nav .nav-item:hover{
+        background: #111010; 
+    }
+    .navbar .navbar-nav .nav-item .nav-link{
+            color: #090909;
+    }
+    .navbar .navbar-nav .nav-item .nav-link:hover {
+        color: #f40f0f;
+      }
+    .navbar .navbar-nav .nav-item .active{
+        margin-left: 0;  
+    }
+    .navbar form{
+        justify-content: flex-start;
+    }
+
+    /* ===============navbar_part end ================ */
+
+    /* =============banne_part start============== */
+    #banner_part {
+        padding: 40px 0 30px;
+    }
+    #banner_part .main {
+        width:100%;
+      }
+      #banner_part .main .left {
+        padding: 0 10px;
+        width: 100%;
+        position: relative;
+    }
+    #banner_part .main .left h1 {
+        font-weight: 700;
+        font-size: 31px;
+        line-height: 40px;
+        width: auto;
+        margin-top: 70px;  
+    }
+    #banner_part .main .left p {
+        display: none;
+        width: auto;
+        font-size: 29px;
+        line-height: 40px;
+    }
+    .button_div {
+        display: flex;
+        width: 94%;
+        margin-top: 50px;
+    }
+    .button_div {
+        display: flex;
+        flex-direction: column;
+    }
+    #banner_part .main button {
+        margin-bottom: 25px;
+        padding: 7px 5px;
+    }
+    #banner_part .main button img {
+        height: 50px;
+        width: 40px;
+    }
+    #banner_part .main .right{
+        display: none;
+        width: 0;
+    }
+    #banner_part .main .left .button_div button {
+        width: 80%;
+        margin-right: 0;
+    }
+  
+    /* =============banne_part end================ */
+    /* =========================serenshort_part start================ */
+    #screenshot_part .slider .prev {
+        left: 0px;
+        top: 50%;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    #screenshot_part .slider .next {
+        right: 0px;
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 40px;
+    }
+    /* =========================serenshort_part end================ */
+    /* =============about_part start================ */
+    #about_part {
+        padding: 40px 0;
+    }
+    #about_part .title p {
+        width: auto;
+        margin-bottom: 40px;
+    }
+    #about_part .main .text p {
+        width: auto;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    #about_part .main button {
+        margin-bottom: 25px;
+    }
+    /* =============about_part end================ */
+    /* =============course_part start================ */
+    #seminer_part {
+        padding: 40px 10px;
+    }
+    #seminer_part .title p {
+        width: auto;
+    }
+    #seminer_part .semi_1 {
+        margin: 30px 0;
+        padding: 20px 20px;
+    }
+    #seminer_part .semi_1 .text h2 {
+        width: auto;
+    }
+    /* =============course_part end================ */
+    /* =============wark_part start================ */
+    #work_part {
+        padding: 40px 10px;
+    }
+    #work_part .title p {
+        width: auto;
+    }
+    #work_part .title h2 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    #work_part .main .work_1 {
+        padding: 15px 10px;
+        margin: 60px 0;
+        background: #dda8a8;
+        transition: none;
+        align-items: center;
+    }
+    #work_part .main .work_1 h3 {
+     
+        text-align: center;
+    }
+    #work_part .main .back p {
+        text-align: center !important;
+    }
+    #work_part .main .work_div .work_1:last-child{
+        margin-bottom: 0;
+    }
+    /* =============wark_part end================ */
+    /* =============Choose_part stard================ */
+    #chouse_part {
+        padding: 40px 0;
+    }
+    #choose_part .title h2{
+        font-size: 36px;
+        line-height: 43px; 
+    }
+    #chouse_part .title p {
+        width: auto;
+        font-size: 17px;
+        line-height: 22px;
+    }
+    #chouse_part .main .text {
+        margin-left: 0;
+    }
+    #chouse_part .main .text li {
+        font-size: 12px;
+        line-height: 35px;
+        font-weight: 500;
+    }
+   
+    /* =============Choose_part end================ */
+    /* =============counter_part start================ */
+    #counter_part{
+        display: none;
+    }
+
+    /* =============Copunter_part end================ */
+    /* =============Facility_part end================ */
+    #facility_part {
+        padding: 40px 10px 100px;
+    }
+    #facility_part .title p {
+        width: auto;
+    }
+    #facility_part .main .facility_01 .text p {
+        width: auto;
+    }
+    #facility_part .main .facility_01 {
+        transition: none;
+        margin: 38px 0px 0px; 
+    }
+    #facility_part .main .back img{
+      
+       margin-right:auto ;
+      }
+      #facility_part .main .back .text h4{
+      text-align: left;
+      }
+      #facility_part .main .back .text p{
+        text-align: left;
+      }
+    #facility_part .main .facility_button button {
+        margin-left: 55px;
+    }
+    /* =============Facility_part end================ */
+    /* =============Counter_part start================ */
+    #contract_part{
+        display: none;
+    }
+    /* =============Counter_part end================ */
+    /* ===================team photos start============= */
+    #designer_prof .title p {
+        width: auto;
+    }
+    .swiper {
+        width: auto;
+        padding-top: 50px;
+        padding-bottom: 50px;
+      }
+    /* ===================team photos end============= */
+    /* =============Login_part start================ */
+    #log_part {
+        padding: 40px 0;
+    }
+    #log_part .container .main .text h2 {
+        font-size: 29px;
+        line-height: 37px;
+        width: auto;
+       
+    }
+    #log_part .container .main .text p {
+        font-family: var(--text_font);
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7b7b7b;
+        width: auto;
+    }
+    #log_part .container .main .right {
+        padding: 38px 27px !important;
+        width: auto;
+    }
+    #log_part .container .main .right form input {
+        padding: 15px 15px;
+        font-size: 18px;
+        line-height: 16px;
+        color: #777;
+    } 
+    #log_part .container .main .right form button {
+        padding: 15px 0;
+        font-size: 18px;
+    
+    }
+    #log_part .container .main .text p {
+        font-family: var(--text_font);
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7b7b7b;
+        width: auto;
+    }
+    /* =============Login_part end================ */
+    /* =============Futter_part end================ */
+    #futter_part .main {
+        width: 100%;
+    }
+    #futter_part .main {
+        padding: 20px 0 60px;
+    }
+    #futter_part .main p {
+        font-size: 16px;
+    }
+    #futter_part .main a i {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    /* =============Futter_part end================ */
+
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* =====================common css title start ============= */
+    .title {
+        margin-bottom: 20px;
+    }
+    .title h2 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .title p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    /* =====================common css title end============= */
+    /* ===============navbar_part start ================ */
+    .navbar {
+        top: 0;
+    }
+    .navbar .main {
+        background: #f1f1f1;
+        padding: 20px 0;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+    .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 16px;
+        margin: 15px 0 0 20px;
+        text-align: left;
+        border-radius: 20px;
+        background: black;
+    }
+    .navbar form .btn:hover {
+        background: black;
+      }
+      
+    .navbar .navbar-toggler{
+        border: 0;
+    }
+    .toggle-wrap {
+        padding: 10px;
+        position: relative;
+        cursor: pointer;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    .navbar .navbar-toggler:focus{
+        border: none;
+        box-shadow: none;
+    }
+    .navbar .navbar-toggler i {
+        color: #0c0c0c;
+        font-size: 40px;
+    }
+    .navbar .navbar-nav .nav-item {
+        text-align: left;
+        border-bottom: 1px solid #f10000;
+        margin: 0;
+        padding: 0 20px;
+    }
+    .navbar .navbar-nav .nav-item:hover{
+        background: #111010;
+    }
+    .navbar .navbar-nav .nav-item .nav-link{
+        color: #cf0000;
+     }
+    .navbar .navbar-nav .nav-item .nav-link:hover {
+        color: #ffffff;
+      }
+    .navbar .navbar-nav .nav-item .active{
+        margin-left: 0;  
+    }
+    .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 16px;
+        margin: 15px 0 0 20px;
+        text-align: left;
+        border-radius: 20px;
+        background: #dc1111;
+    }
+    .navbar form .btn:hover {
+        background: #f4f1f1;
+        border: 1px solid red;
+        overflow: hidden;
+      }
+    .navbar .navbar-nav{
+        text-align: center;    
+    }
+    .navbar form{
+        justify-content: flex-start;
+    }
+    /* ===============navbar_part end ================ */
+
+    /* =============banne_part start============== */
+    #banner_part {
+        padding: 110px 0;
+    }
+    #banner_part .main {
+        width:100%; 
+      }
+      #banner_part .main .left {
+        padding: 0 10px;
+        width: 100%;
+    }
+    #banner_part .main .left h1 {
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 52px;
+        width: auto;
+    }
+    #banner_part .main .left p {
+        width: auto;
+        font-size: 29px;
+        line-height: 40px;
+    }
+    .button_div {
+        display: flex;
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .button_div {
+        display: flex;
+        
+    }
+    #banner_part .main button {
+        margin-bottom: 25px;
+        padding: 15px 31px;
+    }
+    #banner_part .main button img {
+        height: 50px;
+        width: 40px;
+    }
+    #banner_part .main .right{
+        display: none;
+        width: 0;
+    }
+  
+    /* =============banne_part end================ */
+    /* =========================serenshort_part start================ */
+    #screenshot_part .slider .prev {
+        left: 0px;
+        top: 50%;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    #screenshot_part .slider .next {
+        right: 0px;
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    /* =========================serenshort_part end================ */
+    /* =============about_part start================ */
+    #about_part {
+        padding: 40px 0;
+    }
+    #about_part .title p {
+        width: auto;
+        margin-bottom: 40px;
+    }
+    #about_part .main .text{
+        animation: none;
+    }
+    #about_part .main .text p {
+        width: auto;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    #about_part .main button {
+        margin-bottom: 25px;
+    }
+    /* =============about_part end================ */
+    /* =============course_part start================ */
+    #seminer_part {
+        padding: 40px 10px;
+    }
+    #seminer_part .title p {
+        width: auto;
+    }
+    #seminer_part .semi_1 {
+        margin: 30px 0;
+        padding: 10px 10px;
+    }
+    #seminer_part .semi_1 .text h2 {
+        width: auto;
+    }
+    /* =============course_part end================ */
+    /* =============wark_part start================ */
+    #work_part {
+        padding: 40px 10px;
+    }
+    #work_part .title p {
+        width: auto;
+    }
+    #work_part .title h2 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    #work_part .main .work_1 {
+        padding: 15px 15px;
+        margin: 60px 0;
+        background: #dda8a8;
+        align-items: center;
+    }
+    #work_part .main .work_1 p {
+        text-align: center;
+    }
+    #work_part .main .back p {
+        text-align: center !important;
+    }
+    #work_part .main .work_div .work_1:last-child{
+        margin-bottom: 0;
+    }
+    /* =============wark_part end================ */
+    /* =============Choose_part stard================ */
+    #chouse_part {
+        padding: 40px 0;
+    }
+    #choose_part .title h2{
+        font-size: 36px;
+        line-height: 43px;
+        
+    }
+    #chouse_part .title p {
+        width: auto;
+        font-size: 17px;
+        line-height: 22px;
+    }
+    #chouse_part .main .text {
+        margin-left: 0;
+    }
+    #chouse_part .main .text li {
+        font-size: 23px;
+        line-height: 40px;
+    }
+    #chouse_part .wrpper_div .wrpper div:nth-child(1) {
+        top: 4%;
+        left: 50%;
+        animation: square 5s linear infinite;
+    }
+
+    /* =============Choose_part end================ */
+    /* =============counter_part start================ */
+    #counter_part{
+        display: none;
+    }
+
+    /* =============Copunter_part end================ */
+    /* =============Facility_part end================ */
+   #facility_part {
+	padding: 100px 10px;
+}
+    #facility_part .title p {
+        width: auto;
+    }
+    #facility_part .main .facility_01 .text p {
+        width: auto;
+        font-size: 20px;
+        line-height: 35px;
+    }
+   
+    #facility_part .main .facility_01 {
+        margin: 38px 0px 0px;
+    }
+    #facility_part .main .back img{
+      
+        margin-right:auto ;
+       }
+       #facility_part .main .back .text h4{
+       text-align: left;
+       }
+       #facility_part .main .back .text p{
+         text-align: left;
+       }
+    #facility_part .main .facility_button button {
+        margin-left: 150px;
+    }
+  
+    /* =============Facility_part end================ */
+    /*=====================team part start=============== */
+    .swiper {
+        width: auto;
+    }
+      #designer_prof .title p {
+        width: auto;
+    }
+    /*=====================team part end=============== */
+    /* =============Counter_part start================ */
+    #contract_part{
+        display: none;
+    }
+    /* =============Counter_part end================ */
+    /* =============Login_part start================ */
+    #log_part {
+        padding: 40px 0;
+    }
+    #log_part .container .main .text h2 {
+        font-size: 38px;
+        line-height: 45px;
+        width: auto;
+    }
+    #log_part .container .main .text p {
+        font-family: var(--text_font);
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7b7b7b;
+        width: auto;
+    }
+    #log_part .container .main .right {
+        padding: 38px 27px !important;
+        width: auto;
+    }
+    #log_part .container .main .right form input {
+        padding: 25px 25px;
+        font-size: 18px;
+        line-height: 16px;
+        color: #777;
+    }
+    #log_part .container .main .right form button {
+        padding: 20px 0;
+        font-size: 22px;
+    }
+    #log_part .container .main .text p {
+        font-size: 19px;
+        line-height: 33px;
+        width: auto;
+    }
+    /* =============Login_part end================ */
+    /* =============Futter_part end================ */
+    #futter_part .main {
+        width: 100%;
+    }
+    #futter_part .main {
+        padding: 20px 0 60px;
+    }
+    #futter_part .main p {
+        font-size: 16px;
+    }
+    #futter_part .main a i {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    /* =============Futter_part end================ */
+
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* =====================common css title start ============= */
+    .title {
+        margin-bottom: 20px;
+    }
+    .title h2 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .title p {
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    /* =====================common css title end============= */
+    /* ===============navbar_part start ================ */
+    .navbar {
+        top: 0;
+    }
+    .navbar .main {
+        background: #f1f1f1;
+        padding: 20px 0;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+    .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 16px;
+        margin: 15px 0 0 20px;
+        text-align: left;
+        border-radius: 20px;
+        background: #dc1111;
+    }
+    .navbar form .btn:hover {
+        background: #f4f1f1;
+        border: 1px solid red;
+      }
+      
+    .navbar .navbar-toggler{
+        border: 0;
+    }
+    .toggle-wrap {
+        padding: 10px;
+        position: relative;
+        cursor: pointer;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    .navbar .navbar-toggler:focus{
+        border: none;
+        box-shadow: none;
+    }
+    .navbar .navbar-toggler i {
+        color: #0c0c0c;
+        font-size: 40px;
+    }
+    .navbar .navbar-nav .nav-item {
+        text-align: left;
+        border-bottom: 1px solid #cf0000;
+        margin: 0;
+        padding: 0 20px;
+    }
+    .navbar .navbar-nav .nav-item:hover{
+        background: #111010;
+    }
+    .navbar .navbar-nav .nav-item .nav-link{
+          color: #090909;
+    }
+    .navbar .navbar-nav .nav-item .nav-link:hover {
+        color: #f40f0f;
+      }
+    .navbar .navbar-nav .nav-item .active{
+        margin-left: 0;  
+    }
+    .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 16px;
+        margin: 15px 0 0 20px;
+        text-align: left;
+        border-radius: 20px;
+    }
+    .navbar form .btn:hover {
+        color: #f00937;
+        border: 1px solid #ff003c;
+      }
+    .navbar .navbar-nav{
+        text-align: center;    
+    }
+    .navbar form{
+        justify-content: flex-start;
+    }
+
+    /* ===============navbar_part end ================ */
+
+    /* =============banne_part start============== */
+    #banner_part {
+        padding: 168px 0 50px;
+    }
+    #banner_part .main {
+        width:100%;
+        
+    }
+      #banner_part .main .left {
+        padding: 0 10px;
+        width: 100%;
+    }
+    #banner_part .main .left h1 {
+        font-size: 46px;
+        line-height: 52px;
+        width: auto;
+    }
+    #banner_part .main .left p {
+        width: auto;
+        font-size: 29px;
+        line-height: 40px;
+    }
+    .button_div {
+        display: flex;
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .button_div {
+        display: flex;
+        
+    }
+    #banner_part .main button {
+        margin-bottom: 25px;
+        padding: 15px 31px;
+    }
+    #banner_part .main button img {
+        height: 50px;
+        width: 40px;
+    }
+    #banner_part .main .right{
+        display: none;
+        width: 0;
+    }
+  
+    /* =============banne_part end================ */
+    /* =========================serenshort_part start================ */
+    #screenshot_part .slider .prev {
+        left: 0px;
+        top: 50%;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    #screenshot_part .slider .next {
+        right: 0px;
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 40px;
+      
+    }
+    /* =========================serenshort_part end================ */
+    /* =============about_part start================ */
+    #about_part {
+        padding: 40px 0;
+    }
+    #about_part .title p {
+        width: auto;
+        margin-bottom: 40px;
+        font-size: 28px;
+        line-height: 34px;
+
+    }
+    #about_part .main .text{
+        animation: none;
+    }
+    #about_part .main .text p {
+        width: auto;
+        font-size: 20px;
+        line-height: 35px;
+    }
+    #about_part .main button {
+        margin-bottom: 25px;
+    }
+    /* =============about_part end================ */
+    /* =============course_part start================ */
+    #seminer_part {
+        padding: 40px 10px;
+    }
+    #seminer_part .title p {
+        width: auto;
+    }
+    #seminer_part .semi_1 {
+        margin: 30px 0;
+        padding: 20px 20px;
+    }
+    #seminer_part .semi_1 .text h2 {
+        width: auto;
+    }
+    /* =============course_part end================ */
+    /* =============wark_part start================ */
+    #work_part {
+        padding: 40px 10px;
+    }
+    #work_part .title p {
+        width: auto;
+    }
+    #work_part .title h2 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    #work_part .main .work_1 {
+        padding: 15px 0;
+        margin: 60px 0;
+        background: #dda8a8;
+        align-items: center;
+    }
+    #work_part .main .work_1 p {
+        text-align: center;
+    }
+    #work_part .main .back p {
+        text-align: center !important;
+    }
+    #work_part .main .work_div .work_1:last-child{
+        margin-bottom: 0;
+    }
+    /* =============wark_part end================ */
+    /* =============Choose_part stard================ */
+    #chouse_part {
+        padding: 40px 0;
+    }
+    #choose_part .title h2{
+        font-size: 36px;
+        line-height: 43px;   
+    }
+    #chouse_part .title p {
+        width: auto;
+        font-size: 23px;
+        line-height: 35px;
+    }
+    #chouse_part .main .text li {
+        font-size: 23px;
+        line-height: 40px;
+    }
+    #chouse_part .wrpper_div .wrpper div:nth-child(1) {
+        top: 4%;
+        left: 30%;
+        animation: square 5s linear infinite;
+    }
+    #chouse_part .wrpper_div .wrpper div:nth-child(3) {
+        top: 6%;
+        left: 8%;
+        animation: square 12s linear infinite;
+    }
+    /* =============Choose_part end================ */
+    /* =============counter_part start================ */
+    #counter_part{
+        display: none;
+    }
+
+    /* =============Copunter_part end================ */
+    /* =============Facility_part end================ */
+    #facility_part {
+        padding: 80px 10px;
+    }
+    #facility_part .title p {
+        width: auto;
+      
+    }
+    #facility_part .main .facility_01 .text h4 {
+        font-size: 36px;
+    }
+    #facility_part .main .facility_01 .text p {
+        width: auto;
+        font-size: 21px;
+        line-height: 35px;
+    }
+    #facility_part .main .facility_01 {
+        margin: 60px 0px 0px;
+    }
+    #facility_part .main .back img{
+      
+        margin-right:auto ;
+       }
+       #facility_part .main .back .text h4{
+       text-align: left;
+       }
+       #facility_part .main .back .text p{
+         text-align: left;
+       }
+    #facility_part .main .facility_button button {
+        margin-left: 250px;
+    }
+  
+    /* =============Facility_part end================ */
+    /* =============Counter_part start================ */
+    #contract_part{
+        display: none;
+    }
+    /* =============Counter_part end================ */
+    /* ================team part start========== */
+    .swiper {
+        width: auto;
+        padding-top: 50px;
+        padding-bottom: 50px;
+      }
+    /* ================team part end========== */
+    /* =============Login_part start================ */
+    #log_part {
+        padding: 80px 0;
+    }
+    #log_part .container .main .text h2 {
+        font-size: 32px;
+        line-height: 45px;
+        width: auto;
+    }
+    #log_part .container .main .text p {
+        font-size: 17px;
+        line-height: 33px;
+        width: auto;
+    }
+    #log_part .container .main .right {
+        padding: 38px 27px !important;
+        width: auto;
+    }
+    #log_part .container .main .right form input {
+        padding: 15px 15px;
+        font-size: 15px;
+        line-height: 16px;
+        color: #777;
+    }
+    #log_part .container .main .right form button {
+        padding: 15px 0;
+        font-size: 18px;
+    }
+    #log_part .container .main .text p {
+        font-size: 19px;
+        line-height: 33px;
+        width: auto;
+    }
+  
+    /* =============Login_part end================ */
+    /* =============Futter_part end================ */
+    #futter_part .main {
+        width: 100%;
+    }
+    #futter_part .main {
+        padding: 20px 0 60px;
+    }
+    #futter_part .main p {
+        font-size: 16px;
+    }
+    #futter_part .main a i {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    /* =============Futter_part end================ */
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* =====================common css title start ============= */
+    .title {
+        margin-bottom: 20px;
+    }
+    .title h2 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .title p {
+        font-size: 27px;
+        line-height: 36px;
+    }
+
+    /* =====================common css title end============= */
+    /* ===============navbar_part start ================ */
+    .navbar {
+        top: 0px;
+    }
+    .navbar .navbar-toggler{
+        border: 0;
+    }
+    .navbar .navbar-toggler:focus{
+        border: none;
+        box-shadow: none;
+    }
+    .navbar .navbar-toggler i {
+        color: #0c0c0c;
+        font-size: 40px;
+    }
+    .navbar .navbar-nav .nav-item {
+        margin-left: 0px;
+      }
+    .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 17px;
+        line-height: 23px;
+        color: #0c0b0b;
+    }
+    .navbar .navbar-nav .nav-item .active{
+        margin-left: 0px;  
+    }
+    .navbar .navbar-nav .nav-item:first-child {
+        margin-left: 20px;
+    }
+    .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 16px;
+        margin: 15px 0;
+        border-radius: 20px;
+    }
+    .navbar .navbar-nav{
+        text-align: center;    
+    }
+    .navbar form{
+        justify-content: center;
+    }
+    /* ===============navbar_part end ================ */
+
+    /* =============banne_part start============== */
+    #banner_part {
+        padding: 190px 0 50px;
+    }
+    #banner_part .main {
+        width:100%;
+      }
+      #banner_part .main .left {
+        padding: 0 10px;
+        width: 100%;
+    }
+    #banner_part .main .left h1 {
+        font-size: 62px;
+        line-height: 80px;
+        width: auto;
+    }
+    #banner_part .main .left p {
+        width: auto;
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .button_div {
+        display: flex;
+        width: 50%;
+        margin-top: 50px;
+    }
+    .button_div {
+        display: flex;
+    }
+    #banner_part .main button {
+        margin-bottom: 25px;
+        padding: 15px 31px;
+    }
+    #banner_part .main button img {
+        height: 50px;
+        width: 40px;
+    }
+    #banner_part .main .right{
+        display: none;
+        width: 0;
+    }
+  
+    /* =============banne_part end================ */
+    /* =========================serenshort_part start================ */
+    #screenshot_part .slider .prev {
+        left: 0px;
+        top: 50%;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    #screenshot_part .slider .next {
+        right: 0px;
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 40px;
+    }
+    /* =========================serenshort_part end================ */
+    /* =============about_part start================ */
+    #about_part {
+        padding: 120px 0;
+    }
+    #about_part .title p {
+        width: auto;
+        margin-bottom: 40px;
+        font-size: 28px;
+        line-height: 34px;
+
+    }
+    #about_part .main .text{
+        animation: none;
+    }
+    #about_part .title p {
+        width: auto;
+        margin-bottom: 40px;
+        font-size: 27px;
+        line-height: 45px;
+    }
+    #about_part .main button {
+        margin-bottom: 25px;
+    }
+    #about_part .main .text p {
+        width: auto;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    /* =============about_part end================ */
+    /* =============course_part start================ */
+    #seminer_part {
+        padding: 120px 0;
+    }
+    #seminer_part .title p {
+        width: auto;
+    }
+    #seminer_part .semi_1 {
+        margin: 30px 0;
+        padding: 30px 10px;
+    }
+    #seminer_part .semi_1 .text h2 {
+        width: auto;
+    }
+    /* =============course_part end================ */
+    /* =============wark_part start================ */
+    #work_part {
+        padding: 120px 10px;
+    }
+    #work_part .title p {
+        width: auto;
+    }
+    #work_part .title h2 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    #work_part .main .work_1 {
+        padding: 15px 30px;
+        margin: 36px 0;
+        text-align: right;
+    }
+    #work_part .main .images img {
+        margin-top: 103px;
+    }
+    #work_part .main .work_div .work_1:last-child{
+        margin-bottom: 0;
+    }
+    /* =============wark_part end================ */
+    /* =============Choose_part stard================ */
+    #chouse_part {
+        padding: 120px 0;
+    }
+    #choose_part .title h2{
+        font-size: 36px;
+        line-height: 43px;   
+    }
+    #chouse_part .title p {
+        width: auto;
+        font-size: 27px;
+        line-height: 35px;
+    }
+    #chouse_part .main .text li {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    /* =============Choose_part end================ */
+    /* =============counter_part start================ */
+   
+
+    /* =============Copunter_part end================ */
+    /* =============Facility_part end================ */
+    #facility_part {
+        padding: 120px 10px;
+    }
+    #facility_part .title p {
+        width: auto;
+      
+    }
+    #facility_part .main .facility_01 .text h4 {
+        font-size: 40px;
+    }
+    #facility_part .main .facility_01 .text p {
+        width: auto;
+        font-size: 21px;
+        line-height: 35px;
+    }
+    #facility_part .main .facility_01 {
+        margin: 60px 0px 0px;
+    }
+    #facility_part .main .facility_button button {
+        margin-left: 390px;
+    }
+    #facility_part .main .facility_button button a {
+        font-size: 24px;
+        padding: 17px 60px;
+    }
+    #facility_part .main .right img {
+        margin-top: 287px;
+        height: 40%;
+    }
+  
+    /* =============Facility_part end================ */
+    /* ===============team part start============= */
+    .swiper {
+        width: auto;
+    
+      }
+    /* ===============team part end============= */
+    /* =============Countract_part start================ */
+    #contract_part{
+        display: none;
+    }
+    /* =============Countract_part end================ */
+    /* =============Login_part start================ */
+    #log_part {
+        padding: 80px 0;
+    }
+    #log_part .container .main .text h2 {
+        font-size: 32px;
+        line-height: 45px;
+        width: auto;
+    }
+    #log_part .container .main .text p {
+        font-size: 17px;
+        line-height: 33px;
+        width: auto;
+    }
+    #log_part .container .main .right {
+        padding: 38px 27px !important;
+        width: auto;
+    }
+    #log_part .container .main .right form input {
+        padding: 25px 25px;
+        font-size: 18px;
+        line-height: 16px;
+        color: #777;
+    }
+    #log_part .container .main .right form button {
+        padding: 20px 0;
+        font-size: 22px;
+    }
+    #log_part .container .main .text p {
+        font-size: 19px;
+        line-height: 33px;
+        width: auto;
+    }
+  
+    /* =============Login_part end================ */
+    /* =============Futter_part end================ */
+    #futter_part .main {
+        width: 100%;
+    }
+    #futter_part .main {
+        padding: 20px 0 60px;
+    }
+    #futter_part .main p {
+        font-size: 16px;
+    }
+    #futter_part .main a i {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    /* =============Futter_part end================ */
+
+}
+ @media (min-width: 1200px) and (max-width: 1399.98px){
+    /* =====================common css title start ============= */
+    .title {
+        margin-bottom: 20px;
+    }
+    .title h2 {
+        font-size: 60px;
+        line-height: 80px;
+    }
+    .title p {
+        font-size: 32px;
+        line-height: 50px;
+    }
+
+    /* =====================common css title end============= */
+    /* ===============navbar_part start ================ */
+    .navbar {
+        top: 10px;
+    }
+    .navbar .navbar-toggler{
+        border: 0;
+    }
+    .navbar .navbar-toggler:focus{
+        border: none;
+        box-shadow: none;
+    }
+    .navbar .navbar-toggler i {
+        color: #f9fbfd;
+        font-size: 40px;
+    }
+      .navbar .navbar-nav .nav-item {
+        margin-left: 25px;
+    }
+    .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 20px;
+        line-height: 23px;
+        color: #282626;
+    }
+    .navbar .navbar-nav .nav-item .active{
+        margin-left: 0px;  
+    }
+    .navbar .navbar-nav .nav-item:first-child {
+        margin-left: 20px;
+    }
+    .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 16px;
+        margin: 15px 0;
+        border-radius: 20px;
+    }
+    .navbar .navbar-nav{
+        text-align: center;    
+    }
+    .navbar form{
+        justify-content: center;
+    }
+    /* ===============navbar_part end ================ */
+
+    /* =============banne_part start============== */
+    #banner_part {
+        padding: 250px 0 80px;
+    }
+    #banner_part .main {
+        width:100%;
+        
+      }
+      #banner_part .main .left {
+        padding: 0 10px;
+        width: 100%;
+    }
+    #banner_part .main .left h1 {
+        font-size: 39px;
+        line-height: 50px;
+        width: auto;
+    }
+    #banner_part .main .left p {
+        width: auto;
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .button_div {
+        display: flex;
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .button_div {
+        display: flex;
+        
+    }
+    #banner_part .main button {
+        margin-bottom: 25px;
+        padding: 15px 31px;
+    }
+    #banner_part .main button img {
+        height: 50px;
+        width: 40px;
+    }
+    #banner_part .main .right{
+        display:block;
+        width: 50%;
+    }
+    #banner_part .main .right img {
+        width: 80%;
+        height: 100%;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+        z-index: -1;
+        position: absolute;
+        top: -30px;
+        left: 60px;
+    }
+  
+    /* =============banne_part end================ */
+    /* =========================serenshort_part start================ */
+    #screenshot_part .slider .prev {
+        left: 0px;
+        top: 50%;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    #screenshot_part .slider .next {
+        right: 0px;
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 40px;
+      
+    }
+    /* =========================serenshort_part end================ */
+    /* =============about_part start================ */
+    #about_part {
+        padding: 110px 0;
+    }
+    #about_part .title p {
+        width: auto;
+        margin-bottom: 40px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    #about_part .main .text{
+        animation: none;
+    }
+    #about_part .main button {
+        margin-bottom: 25px;
+    }
+    #about_part .main .text p {
+        width: auto;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    /* =============about_part end================ */
+    /* =============course_part start================ */
+    #seminer_part {
+        padding: 110px 10px;
+    }
+    #seminer_part .title p {
+        width: auto;
+    }
+    #seminer_part .semi_1 {
+        margin: 30px 0;
+        padding: 20px 20px;
+    }
+    #seminer_part .semi_1 .text h2 {
+        width: auto;
+    }
+    /* =============course_part end================ */
+    /* =============wark_part start================ */
+    #work_part {
+            padding: 120px 10px;
+    }
+    #work_part .title p {
+        width: auto;
+    }
+    #work_part .title h2 {
+        font-size: 60px;
+        line-height: 95px;
+    }
+    #work_part .main .work_1 {
+        padding: 15px 15px;
+        margin: 25px 0;
+    }
+   
+    #work_part .main .work_div .work_1:last-child{
+        margin-bottom: 0;
+    }
+    /* =============wark_part end================ */
+    /* =============Choose_part stard================ */
+    #chouse_part {
+        padding: 120px 0;
+    }
+    #choose_part .title h2{
+        font-size: 36px;
+        line-height: 43px;   
+    }
+    #chouse_part .title p {
+        width: auto;
+        font-size: 36px;
+        line-height: 50px;
+    }
+    #chouse_part .main .text li {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    /* =============Choose_part end================ */
+   
+    /* =============Facility_part end================ */
+    #facility_part {
+        padding: 110px  0;
+    }
+    #facility_part .title p {
+        width: auto;
+    }
+    #facility_part .main .facility_01 .text h4 {
+        font-size: 40px;
+    }
+    #facility_part .main .facility_01 .text p {
+        width: auto;
+        font-size: 21px;
+        line-height: 35px;
+    }
+    #facility_part .main .facility_01 {
+        margin: 60px 0px 0px;
+    }
+    #facility_part .main .facility_button button {
+        margin-left: 390px;
+    }
+    #facility_part .main .facility_button button a {
+        font-size: 24px;
+        padding: 17px 60px;
+    }
+    #facility_part .main .right_img {
+        width: 100%;
+        height: 100%;
+        margin-top: 80px;
+    }
+    /* =============Facility_part end================ */
+    /* =============Counter_part start================ */
+    #contract_part{
+        display: block;
+    }
+    /* =============Counter_part end================ */
+    /* ======================team part start========== */
+    .swiper {
+        width: auto;
+      }
+    /* ======================team part end========== */
+    /* =============Login_part start================ */
+    #log_part {
+        display: none;
+    }
+    /* =============Login_part end================ */
+    /* =============Futter_part end================ */
+    #futter_part .main {
+        width: 100%;
+    }
+    #futter_part .main {
+        padding: 20px 0 60px;
+    }
+    #futter_part .main p {
+        font-size: 16px;
+    }
+    #futter_part .main a i {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    /* =============Futter_part end================ */
+}
+@media (min-width: 1400px) and (max-width:10000px ){
+#log_part{
+    display: none;
+}
+}

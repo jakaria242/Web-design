@@ -1,0 +1,1107 @@
+@media(min-width: 1200px) and (max-width: 1399px) {
+
+    /* =========================================
+                navbar part start
+    ==========================================*/
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    /* =========================================
+                navbar part end
+    ==========================================*/
+
+    /* =========================================
+                banner part start
+    ==========================================*/
+    .banner-content h1 {
+        color: #222222;
+        font-size: 48px;
+        font-weight: 700;
+        font-family: 'Poppins', sans-serif;
+        text-transform: capitalize;
+        line-height: 58px;
+        padding-right: 65px;
+    }
+
+    .banner-content p {
+        padding-right: 155px;
+    }
+
+    /* =========================================
+                banner part end
+    ==========================================*/
+
+    /* =========================================
+                about part start
+    ==========================================*/
+    .common-header h2 {
+        padding: 0 25px 20px 25px;
+    }
+
+    .common-header p {
+        padding: 0 110px 35px 110px;
+    }
+
+    .comment-text p {
+        padding-right: 65px;
+    }
+
+    /* =========================================
+                about part end
+    ==========================================*/
+
+    /* =========================================
+                category part start
+    ==========================================*/
+    .chat-item {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 35px;
+        padding-left: 25px;
+        margin-bottom: 20px;
+    }
+
+    .chat-text {
+        padding-left: 15px;
+    }
+
+    /* =========================================
+                category part end
+    ==========================================*/
+
+    /* =========================================
+                testimonial part start
+    ==========================================*/
+    #testimonial .common-header h2 {
+        padding: 0 20px 0 20px;
+    }
+
+    .cotation-wrapper {
+        margin-top: 70px;
+    }
+
+    .testimonial-bottom-header {
+        padding: 84px 0 75px 80px;
+    }
+
+    .testimonial-bottom-header h2 {
+        font-size: 44px;
+    }
+
+    .testimonial-bottom-header p {
+        font-size: 17px;
+        padding-right: 0;
+    }
+
+    /* =========================================
+                testimonial part end
+    ==========================================*/
+
+    /* =========================================
+                footer part start
+    ==========================================*/
+    .contact-info p {
+        padding-right: 50px;
+    }
+
+    /* =========================================
+                footer part end
+    ==========================================*/
+
+
+    /* =========================================
+                navbar part start
+    ==========================================*/
+    /* =========================================
+                navbar part end
+    ==========================================*/
+}
+
+@media(min-width: 992px) and (max-width: 1199px) {
+
+    /* =========================================
+                navbar part start
+    ==========================================*/
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    /* =========================================
+                navbar part end
+    ==========================================*/
+    /* =========================================
+                banner part start
+    ==========================================*/
+    .banner-content h1 {
+        font-size: 40px;
+        line-height: 48px;
+        padding-right: 0px;
+    }
+
+    .banner-content p {
+        padding-right: 60px;
+    }
+
+    /* =========================================
+                banner part end
+    ==========================================*/
+
+    /* =========================================
+                cloud part start
+    ==========================================*/
+    #cloud {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    /* =========================================
+                cloud part end
+    ==========================================*/
+
+    /* =========================================
+                about part start
+    ==========================================*/
+    #about {
+        padding-top: 30px;
+    }
+
+    .common-header h2 {
+        font-size: 34px;
+        padding: 0 0px 20px 0px;
+    }
+
+    .common-header p {
+        padding: 0 30px 35px 30px;
+    }
+
+    .about-item-third .about-text h4 {
+        padding: 17px 24px 11px 24px;
+    }
+
+    .about-text h4 {
+        padding: 17px 30px 11px 30px;
+    }
+
+    .about-text p {
+        padding: 0 20px;
+    }
+
+    /* =========================================
+                about part end
+    ==========================================*/
+
+    /* =========================================
+                category part start
+    ==========================================*/
+    .chat-item {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 11px;
+        padding-left: 10px;
+        margin-bottom: 15px;
+    }
+
+    .chat-text h4 {
+        padding-bottom: 12px;
+    }
+
+    .chat-text {
+        padding-left: 10px;
+    }
+
+    .chat-text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    /* =========================================
+                category part end
+    ==========================================*/
+
+    /* =========================================
+                testimonial part start
+    ==========================================*/
+    #testimonial .common-header h2 {
+        padding: 0 0px 0 0px;
+    }
+
+    .comment-persion {
+        margin-top: 90px;
+    }
+
+    .comment-text p {
+        font-size: 21px;
+        line-height: 23px;
+        padding-right: 0px;
+    }
+
+    .testimonial-bottom-header {
+        padding: 84px 0 75px 74px;
+    }
+
+    .testimonial-bottom-header h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .testimonial-bottom-header p {
+        font-size: 14px;
+        padding-right: 0;
+    }
+
+    /* =========================================
+                testimonial part end
+    ==========================================*/
+
+    /* =========================================
+                footer part start
+    ==========================================*/
+    .contact-text p {
+        padding-right: 0;
+    }
+
+    .contact-icon ul li {
+        margin-right: 10px;
+    }
+
+    .contact-info p {
+        padding-right: 0px;
+    }
+
+    .contact-item .contact-info h5 {
+        padding-top: 20px;
+    }
+
+    /* =========================================
+                footer part end
+    ==========================================*/
+}
+
+@media(min-width: 768px) and (max-width: 991px) {
+
+    /* =========================================
+                navbar part start
+    ==========================================*/
+    .nav-link {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 0 0 !important;
+        display: inline-block;
+    }
+
+    .nav-link::after {
+        display: none;
+    }
+
+    /* =========================================
+                navbar part end
+    ==========================================*/
+    /* =========================================
+                banner part start
+    ==========================================*/
+    #banner {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+
+    .banner-content h1 {
+        padding-right: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .banner-content p {
+        font-size: 17px;
+        padding-right: 0px;
+        margin-top: 20px;
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .banner-content .button {
+        margin: 25px auto;
+    }
+
+    .banner-left-shape {
+        display: none;
+    }
+
+    .banner-right-shape {
+        display: none;
+    }
+
+    /* =========================================
+                banner part end
+    ==========================================*/
+
+    /* =========================================
+                cloud part start
+    ==========================================*/
+    #cloud {
+        margin-top: 40px;
+    }
+
+    /* =========================================
+                cloud part end
+    ==========================================*/
+
+    /* =========================================
+                about part start
+    ==========================================*/
+    #about {
+        padding-top: 0px;
+        overflow-x: hidden;
+    }
+
+    .common-header h2 {
+        color: #fff;
+        font-size: 38px;
+        font-weight: 700;
+        font-family: 'Poppins', sans-serif;
+        text-transform: capitalize;
+        line-height: 48px;
+        padding: 0px 5px 20px 5px;
+    }
+
+    .common-header p {
+        padding: 0 90px 35px 90px;
+    }
+
+    /* =========================================
+                about part end
+    ==========================================*/
+
+    /* =========================================
+                category part start
+    ==========================================*/
+    #category {
+        overflow-x: hidden;
+    }
+
+    .item-row {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .chat-item:last-child {
+        margin-bottom: 30px;
+    }
+
+    /* =========================================
+                category part end
+    ==========================================*/
+
+    /* =========================================
+                testimonial part start
+    ==========================================*/
+    #testimonial .common-header h2 {
+        padding: 0 35px 30px 35px;
+    }
+
+    .comment-persion {
+        margin-left: 110px;
+        margin-right: 73px;
+        margin-bottom: 36px;
+        margin-top: 86px;
+    }
+
+    .comment-text p {
+        font-size: 15px;
+        line-height: 22px;
+        padding-right: 0px;
+    }
+
+    .testimonial-bottom-header h2 {
+        font-size: 48px;
+        line-height: 50px;
+        text-align: center;
+    }
+
+    .testimonial-bottom-header .button {
+        margin: 0 auto;
+    }
+
+    .testimonial-bottom-header p {
+        text-align: center;
+    }
+
+    .testimonial-bottom {
+        margin-top: 60px;
+    }
+
+    .testimonial-bottom-header {
+        padding: 20px 20px 20px 20px;
+    }
+
+    .testimonial-bottom-header .button {
+        margin: 0 auto;
+    }
+
+    .testimonial-bottom-header p {
+        line-height: 28px;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    /* =========================================
+                testimonial part end
+    ==========================================*/
+
+    /* =========================================
+                contact part start
+    ==========================================*/
+    .logo-text p {
+        font-size: 22px;
+    }
+
+    .contact-text p {
+        font-size: 13px;
+        padding-right: 0;
+    }
+
+    .contact-item a {
+        font-size: 13px;
+    }
+
+    .contact-icon ul {
+        justify-content: start;
+    }
+
+    .contact-icon ul li {
+        margin-bottom: 10px;
+    }
+
+    .contact-icon ul li:nth-child(2) {
+        margin-right: 0;
+    }
+
+    .contact-item h6 {
+        line-height: 20px;
+    }
+
+    .contact-info p {
+        padding-right: 0px;
+    }
+
+    /* =========================================
+                contact part end
+    ==========================================*/
+}
+
+@media(min-width: 576px) and (max-width: 767px) {
+
+    /* =========================================
+                navbar part start
+    ==========================================*/
+    .nav-link {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 0 0 !important;
+        display: inline-block;
+    }
+
+    .nav-link::after {
+        display: none;
+    }
+
+    /* =========================================
+                navbar part end
+    ==========================================*/
+    /* =========================================
+                banner part start
+    ==========================================*/
+    #banner {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+
+    .banner-content h1 {
+        font-size: 38px;
+        line-height: 47px;
+        padding-right: 6px;
+        text-align: center;
+        padding-left: 5px;
+        margin-top: 10px;
+    }
+
+    .banner-content p {
+        font-size: 16px;
+        padding-right: 0px;
+        margin-top: 20px;
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .banner-content .button {
+        margin: 25px auto;
+    }
+
+    .banner-left-shape {
+        display: none;
+    }
+
+    .banner-right-shape {
+        display: none;
+    }
+
+    /* =========================================
+                banner part end
+    ==========================================*/
+    /* =========================================
+                cloud part start
+    ==========================================*/
+    #cloud {
+        display: none;
+    }
+
+    /* =========================================
+                cloud part end
+    ==========================================*/
+
+    /* =========================================
+                about part start
+    ==========================================*/
+    #about {
+        padding-top: 25px;
+    }
+
+    .common-header h2 {
+        font-size: 29px;
+        line-height: 37px;
+        padding: 0 0 0 0;
+    }
+
+    .common-header p {
+        font-size: 16px;
+        padding: 15px;
+    }
+
+    .about-left-shape {
+        display: none;
+    }
+
+    .about-right-shape {
+        display: none;
+    }
+
+    .about-margin {
+        margin: 20px 0;
+    }
+
+    .about-item-first {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .about-item-sec {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .about-item-third {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    /* =========================================
+                about part end
+    ==========================================*/
+    /* =========================================
+                category part start
+    ==========================================*/
+    #category {
+        padding-top: 40px;
+    }
+
+    .item-row {
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+
+    .category-item {
+        margin-bottom: 15px;
+    }
+
+    .category-text p {
+        padding: 5px 0px 0 50px;
+    }
+
+    .chat-row {
+        margin-top: 30px;
+    }
+
+    .chat-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-bottom: 15px;
+    }
+
+    .chat-text {
+        padding-left: 10px;
+    }
+
+    .chat-text h4 {
+        line-height: 20px;
+    }
+
+    .chat-item:last-child {
+        margin-bottom: 20px;
+    }
+
+    .chat-img-shape {
+        display: none;
+    }
+
+    /* =========================================
+                category part end
+    ==========================================*/
+
+    /* =========================================
+                testimonial part start
+    ==========================================*/
+    #testimonial {
+        padding-top: 55px;
+        padding-bottom: 40px;
+    }
+
+    .cotation-wrapper {
+        margin-top: 60px;
+    }
+
+    .comment-persion {
+        margin-top: 50px;
+    }
+
+    .comment-text p {
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .comment-text {
+        text-align: center;
+    }
+
+    #testimonial .slick-dots {
+        display: flex;
+        justify-content: center;
+    }
+
+    .testimonial-bottom-header h2 {
+        text-align: center;
+    }
+
+    .testimonial-bottom-header .button {
+        margin: 0 auto;
+    }
+
+    .testimonial-bottom-header p {
+        text-align: center;
+    }
+
+    .testimonial-bottom {
+        margin-top: 60px;
+    }
+
+    .testimonial-bottom-header {
+        padding: 20px 10px 10px 10px;
+    }
+
+    .testimonial-bottom-header h2 {
+        font-size: 36px;
+        line-height: 40px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .testimonial-bottom-header .button {
+        margin: 0 auto;
+    }
+
+    .testimonial-bottom-header p {
+        line-height: 25px;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    /* =========================================
+                testimonial part end
+    ==========================================*/
+
+    /* =========================================
+                footer part start
+    ==========================================*/
+    #contact {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .contact-text p {
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .contact-item {
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    .contact-icon ul {
+        justify-content: center;
+    }
+
+    .contact-item h6 {
+        padding-bottom: 20px;
+    }
+
+    .contact-info {
+        text-align: center;
+    }
+
+    .contact-info p {
+        padding-right: 0;
+    }
+
+    /* =========================================
+                footer part end
+    ==========================================*/
+
+    /* =========================================
+                coyright part start
+    ==========================================*/
+    .cpoy-after {
+        display: none;
+    }
+
+    .copy-text p {
+        line-height: 20px;
+    }
+
+    /* =========================================
+                coyright part end
+    ==========================================*/
+}
+
+@media(max-width: 575.99px) {
+
+    /* =========================================
+                navbar part start
+    ==========================================*/
+    .navbar {
+        padding-top: 15px;
+    }
+
+    .navbar.nav-fixed {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .nav-link {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 0 0 !important;
+        display: inline-block;
+    }
+
+    .nav-link::after {
+        display: none;
+    }
+
+    /* =========================================
+                navbar part end
+    ==========================================*/
+
+    /* =========================================
+                banner part start
+    ==========================================*/
+    #banner {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+
+    .banner-content h1 {
+        font-size: 38px;
+        line-height: 47px;
+        padding-right: 6px;
+        text-align: center;
+        padding-left: 5px;
+        margin-top: 10px;
+    }
+
+    .banner-content p {
+        font-size: 16px;
+        padding-right: 0px;
+        margin-top: 20px;
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .banner-content .button {
+        margin: 25px auto;
+    }
+
+    .banner-left-shape {
+        display: none;
+    }
+
+    .banner-right-shape {
+        display: none;
+    }
+
+    /* =========================================
+                banner part end
+    ==========================================*/
+
+    /* =========================================
+                cloud part start
+    ==========================================*/
+    #cloud {
+        display: none;
+    }
+
+    /* =========================================
+                cloud part end
+    ==========================================*/
+
+    /* =========================================
+                about part start
+    ==========================================*/
+    #about {
+        padding-top: 25px;
+    }
+
+    .common-header h2 {
+        font-size: 29px;
+        line-height: 37px;
+        padding: 0 0 0 0;
+    }
+
+    .common-header p {
+        font-size: 16px;
+        padding: 15px;
+    }
+
+    .about-left-shape {
+        display: none;
+    }
+
+    .about-right-shape {
+        display: none;
+    }
+
+    .about-margin {
+        margin: 20px 0;
+    }
+
+    .about-item-first {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .about-item-sec {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .about-item-third {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    /* =========================================
+                about part end
+    ==========================================*/
+
+    /* =========================================
+                category part start
+    ==========================================*/
+    #category {
+        padding-top: 40px;
+    }
+
+    .item-row {
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+
+    .category-item {
+        margin-bottom: 15px;
+    }
+
+    .category-text p {
+        padding: 5px 0px 0 50px;
+    }
+
+    .chat-row {
+        margin-top: 30px;
+    }
+
+    .chat-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-bottom: 15px;
+    }
+
+    .chat-text {
+        padding-left: 10px;
+    }
+
+    .chat-text h4 {
+        line-height: 20px;
+    }
+
+    .chat-item:last-child {
+        margin-bottom: 20px;
+    }
+
+    .chat-img-shape {
+        display: none;
+    }
+
+    /* =========================================
+                category part end
+    ==========================================*/
+
+    /* =========================================
+                testimonial part start
+    ==========================================*/
+    #testimonial {
+        padding-top: 55px;
+        padding-bottom: 40px;
+    }
+
+    #testimonial .common-header h2 {
+        padding: 0;
+    }
+
+    .persion-left-shape {
+        display: none;
+    }
+
+    .persion-right-shape {
+        display: none;
+    }
+
+    .comment-persion {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+
+    .cotation-wrapper {
+        margin-top: 60px;
+    }
+
+    .comment-text p {
+        font-size: 16px;
+        line-height: 22px;
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .comment-text {
+        text-align: center;
+    }
+
+    #testimonial .slick-dots {
+        display: flex;
+        justify-content: center;
+    }
+
+    .testimonial-bottom {
+        margin-top: 60px;
+    }
+
+    .testimonial-bottom-header {
+        padding: 20px 10px 10px 10px;
+    }
+
+    .testimonial-bottom-header h2 {
+        font-size: 36px;
+        line-height: 40px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .testimonial-bottom-header .button {
+        margin: 0 auto;
+    }
+
+    .testimonial-bottom-header p {
+        line-height: 25px;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    /* =========================================
+                testimonial part end
+    ==========================================*/
+
+    /* =========================================
+                contact part start
+    ==========================================*/
+    #contact {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .contact-text p {
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .contact-item {
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    .contact-icon ul {
+        justify-content: center;
+    }
+
+    .contact-item h6 {
+        padding-bottom: 20px;
+    }
+
+    .contact-info {
+        text-align: center;
+    }
+
+    .contact-info p {
+        padding-right: 0;
+    }
+
+    /* =========================================
+                contact part end
+    ==========================================*/
+
+    /* =========================================
+                coyright part start
+    ==========================================*/
+    .cpoy-after {
+        display: none;
+    }
+
+    .copy-text p {
+        line-height: 20px;
+    }
+
+    /* =========================================
+                coyright part end
+    ==========================================*/
+}
